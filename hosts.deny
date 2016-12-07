@@ -12,9 +12,7 @@
 #		See 'man tcpd' for information on tcp_wrappers
 #
 ALL:153.125.231.168
-ALL:153.125.231.*
-ALL:153.125.*.*
 ALL:153.125.232.233
-ALL:153.125.232.*
 ALL:153.125.232.171
+ALL:116.1.7.162
 ALL:153.125.232.136
